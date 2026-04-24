@@ -1,5 +1,4 @@
 # PJM AEP — Electricity Price Forecasting & Trading Signal System
-**Portfolio Project | Data Science MS, University of Pittsburgh**
 
 ---
 
@@ -246,10 +245,6 @@ Free EIA API key: https://www.eia.gov/opendata/register.php
 | High-recall signal strategy | Asymmetric cost: missing spike >> false alarm |
 | Historical VaR over parametric | No normality assumption; captures fat tails in electricity prices |
 
----
-
-*Built as part of a Data Science MS portfolio at University of Pittsburgh.*
-*Target application: Quantitative Research & Trading Intern, SESCO Enterprises LLC.*
 ---
 
 ## Conclusion
